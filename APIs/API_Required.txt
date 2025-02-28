@@ -3,3 +3,14 @@ The API's Required for Stock Price Data: Yahoo Finance, Quandl, Alpha Vantage
 
 **For News** : 
 (i) Alpha Vantage
+API Key : Welcome to Alpha Vantage! Your API key is: 0ZCGIVTV02SJRQPJ. Please record this API key at a safe place for future data access.
+(ii) Yahoo Finance 
+API Key : pip install yahooquery
+(iii) Google News : 
+API Key : newspaper3k and BeautifulSoup
+
+**For Stock Market Price** : 
+(i) Yahoo Finance
+API Key : pip install yfinance
+(ii) Alpha Vantage : 
+API Key : API Key : Welcome to Alpha Vantage! Your API key is: 0ZCGIVTV02SJRQPJ. Please record this API key at a safe place for future data access.
