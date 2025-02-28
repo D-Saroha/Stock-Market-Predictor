@@ -1,2 +1,4 @@
 "Python for Finance "BY Yves Hilpisch
-"The Concepts and Practice of Mathermatical Finance" By Mark S.Joshi
+"The Concepts and Practice of Mathermatical Finance" By Mark S.Josh
+"Advances in Financial Machine Learning" By Markos Lopez de Prado
+"Data Science for Finance"by J.P. Morgan
