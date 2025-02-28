@@ -1,2 +1,5 @@
 The API's Required for News: Alpha Vantage, Yahoo Finance, Bloomberg, Reuters
 The API's Required for Stock Price Data: Yahoo Finance, Quandl, Alpha Vantage
+
+**For News** : 
+(i) Alpha Vantage
